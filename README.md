@@ -94,7 +94,8 @@
 
 ### ASCII Art
 
-```    __
+```
+    __
   []  []-o CHIPS
 o-[]  []
   []  []-o ALLIANCE
