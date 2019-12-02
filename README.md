@@ -66,28 +66,28 @@
     <tr>
         <th>color</th>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-color.png" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-color.png" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-color.png" width="75"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-color.svg" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>grayscale</th>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-grayscale.png" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-grayscale.png" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-grayscale.png" width="75"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-grayscale.svg" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-grayscale.svg" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-grayscale.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-white.png" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-white.png" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-white.png" width="75"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-logo-horizontal-white.svg" width="200"></td>
-        <td><img src="./no_artwork_available.png" width="95"></td>
+        <td><img src="./chipsalliance/CHIPS_Alliance-logo-stacked-white.svg" width="95"></td>
         <td><img src="./chipsalliance/CHIPS_Alliance-icon-white.svg" width="75"></td>
     </tr>
 </table>
